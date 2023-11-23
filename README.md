@@ -48,3 +48,4 @@
 
     
     git push
+Now, your Django project is on GitHub, and users can follow the instructions in the README file to run the web app and access the Hello World JSON response.
